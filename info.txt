@@ -6,4 +6,7 @@ npm install -g @vue/cli
 
 vue create projname
 
+php artisan make:migration create_users_table
+
+pldt
 http://192.168.1.1

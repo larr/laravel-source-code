@@ -35,3 +35,4 @@ php artisan make:factory PostFactory
 git add
 git commit
 git push
+git push -u origin master --force
